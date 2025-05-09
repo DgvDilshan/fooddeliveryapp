@@ -63,7 +63,7 @@ class _HomeState extends State<Home> {
                           borderRadius: BorderRadius.circular(8)),
                       padding: EdgeInsets.all(8),
                       child: Image.asset(
-                        "images/ice-cream.jpeg",
+                        "images/ice-cream.png",
                         height: 50.0,
                         width: 50.0,
                         fit: BoxFit.cover,
@@ -78,7 +78,7 @@ class _HomeState extends State<Home> {
                   child: Container(
                     padding: EdgeInsets.all(8),
                     child: Image.asset(
-                      "images/pizza.jpeg",
+                      "images/pizza.png",
                       height: 50.0,
                       width: 50.0,
                       fit: BoxFit.cover,
@@ -91,7 +91,7 @@ class _HomeState extends State<Home> {
                   child: Container(
                     padding: EdgeInsets.all(8),
                     child: Image.asset(
-                      "images/burger.jpg",
+                      "images/burger.png",
                       height: 50.0,
                       width: 50.0,
                       fit: BoxFit.cover,
@@ -104,7 +104,7 @@ class _HomeState extends State<Home> {
                   child: Container(
                     padding: EdgeInsets.all(8),
                     child: Image.asset(
-                      "images/salad.jpg",
+                      "images/salad.png",
                       height: 50.0,
                       width: 50.0,
                       fit: BoxFit.cover,
