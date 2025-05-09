@@ -20,8 +20,16 @@ class AppWidget {
   static TextStyle LightTextFeildStyle() {
     return TextStyle(
         color: Colors.black38,
-        fontSize: 16.0,
+        fontSize: 15.0,
         fontWeight: FontWeight.w500,
+        fontFamily: "Poppins");
+  }
+
+  static TextStyle semiBooldTextFeildStyle() {
+    return TextStyle(
+        color: Colors.black87,
+        fontSize: 18.0,
+        fontWeight: FontWeight.w900,
         fontFamily: "Poppins");
   }
 }
